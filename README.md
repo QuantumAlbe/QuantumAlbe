@@ -4,3 +4,4 @@
 - 👾 I studied physical engineering (bachelor) at PoliTo 
 - 🌱 I’m currently trying to learn programming (👾*quantum*👾 programming)  :( 
 - 📫 How to reach me: alberto.polato@polito.it
+- 📁 [Here](https://drive.google.com/drive/folders/1pYeK-NruSebSlgXBcyDs-fvheRgoh18A?usp=drive_link) there are some of my presentations and non-IT works done during my University.
