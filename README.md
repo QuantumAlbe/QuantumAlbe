@@ -2,6 +2,6 @@
 **QuantumAlbe/QuantumAlbe** is a 👾*quantum*👾 engineering student of Politecnico di Torino. I study both 👾*quantum*👾 hardware design and 👾*quantum*👾 computing. We say 👾*quantum*👾 a lot of times more than needed.
 
 - 👾 I studied physical engineering (bachelor) at PoliTo 
-- 🌱 I’m currently trying to learn programming (👾*quantum*👾 programming)  :( 
+- 🌱 I’m currently learning programming (👾*quantum*👾 programming)  :( 
 - 📫 How to reach me: alberto.polato@polito.it
 - 📁 [Here](https://drive.google.com/drive/folders/1pYeK-NruSebSlgXBcyDs-fvheRgoh18A?usp=drive_link) there are some of my presentations and non-IT works done during my University.
